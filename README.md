@@ -1,2 +1,5 @@
 # email_app
-Envio de Email, com interação grafica. Envie email de forma rápida com login através de banco de dados Real Time,possibilitando envio de arquivos em vatios formatos. Tudo de forma Rapida e eficiente,e mensagens de erro e de sucesso.
+Email Sending with Graphic Interaction
+Send emails quickly using login credentials stored in a Real-Time database, allowing the attachment of files in various formats. Everything is processed swiftly and efficiently, with both error and success messages provided.
+Warning:
+You must provide the correct email address and your Gmail app password.
